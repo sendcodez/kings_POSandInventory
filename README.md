@@ -2,4 +2,4 @@
 # May iba pang info sa table na dapat ilagay hindi lang mga nandon na nakalagay , (ANO DAW)
 # Header sa sa graph at may format with prepared by din (UPDATED)
 # Pag out of stock yung  ingredients, magkakaron ng "UNAVAILABLE" don sa product at hindi sya mapapunch! (POS)
-# Rename homebilling.php to home.php and place to billing folder!
+# Rename homebilling.php to home.php and kindly place to billing folder!
