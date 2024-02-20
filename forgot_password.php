@@ -159,8 +159,8 @@ function sendRecoveryEmail($email, $reset_token) {
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com'; // Replace with your SMTP server
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'sendm3codes@gmail.com'; // Replace with your SMTP username
-        $mail->Password   = 'hwvqxhtosrkjujkb'; // Replace with your SMTP password
+        $mail->Username   = ''; // Replace with your SMTP username
+        $mail->Password   = ''; // Replace with your SMTP password
         $mail->SMTPSecure = 'tls';
         $mail->Port       = 587;
 
